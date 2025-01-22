@@ -49,24 +49,6 @@ Sprunki Pyramixed is a unique horror-themed music creation game that transforms 
 - Internet Connection Required
 - Audio Output Device
 
-## 🔄 Updates
-
-The game receives regular updates with:
-- New horror characters
-- Additional sound effects
-- Community-requested features
-- Performance improvements
-
-## 👥 Community & Support
-
-- Join our Discord server for discussions
-- Share feedback and suggestions
-- Report issues
-- Connect with other horror music creators
-
-## 📝 License
-
-© 2024 sprunkiretake.io - All rights reserved.
 
 ---
 
