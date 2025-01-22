@@ -1,4 +1,4 @@
-# Sprunki Pyramixed(https://sprunkiretake.io/games/sprunki-pyramixed)
+# [Sprunki Pyramixed](https://sprunkiretake.io/games/sprunki-pyramixed)
 
 
 > Experience the dark side of music creation in this haunting twist on the classic Sprunki gameplay.
